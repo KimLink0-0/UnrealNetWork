@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/MaterialLibrary/M_Outline.uasset",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/Maps/Part3Step1.umap",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/Blueprint/BP_Fountain.uasset",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/Blueprint/BP_ABPlayerController.uasset",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/CharacterControl/ABC_Quater.uasset",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/Blueprint/BP_PVPStage.uasset",
+				"D:/CppWork/Part3Examples/Lesson1/Content/ArenaBattle/Blueprint/BP_PVPState.uasset"
+			]
+		}
+	]
+}
